@@ -81,11 +81,10 @@ The initiatives of Rhode Island’s Digital Service transformation include: *Cit
 
 The initiatives within each family incorporate the following strategies:
 
-![](media/image8.png){width="3.862390638670166in" height="2.362390638670166in"}
 
-> []{#_Hlk516741675 .anchor}*Welcome All Rhode Islanders*
->
-> Empowerment, Inclusivity, Accessibility
+*Welcome All Rhode Islanders*
+
+Empowerment, Inclusivity, Accessibility
 
 *Simplify Government*
 
@@ -132,7 +131,7 @@ Define a minimum viable product from the successful prototype in Alpha. Build pr
 
 Put the team and processes in place to continue operating and improving the service, phasing out the old services, and consolidating existing non-digital channels.
 
-DESIGNING: Digital Service for Rhode Island\
+DESIGNING: Digital Service for Rhode Island
 ============================================
 
 *“The word digital is misleading. It makes one think of technology, when we should be thinking of people.” – Paul Boag; Author*
