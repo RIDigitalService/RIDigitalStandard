@@ -2071,7 +2071,7 @@ We are serious about improving the Standard, so please share your thoughts and i
 
 You can do so by:
 
--   Forking our *GitHub repository*
+-   Forking our [GitHub repository](https://github.com/RIDigitalService/RIDigitalStandard).
 
 -   Emailing us at <digital.standard@RI.gov>
 
