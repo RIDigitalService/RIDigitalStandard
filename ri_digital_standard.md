@@ -1,4 +1,4 @@
-Rhode Island Digital Service Standard
+# Rhode Island Digital Service Standard
 
 “To the people of Rhode Island: If it doesn’t work for you, it doesn’t work.” – RI.gov
 
