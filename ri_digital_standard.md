@@ -1,8 +1,11 @@
-# Rhode Island Digital Service Standard
+Rhode Island Digital Service Standard
+=====================================
 
 “To the people of Rhode Island: If it doesn’t work for you, it doesn’t work.” – RI.gov
 
+
 ---
+
 
 Introduction
 ============
@@ -21,9 +24,12 @@ Using the Standard will:
 
 The State of Rhode Island is dedicated to better serving and engaging its residents, businesses, and visitors. As such, we will require all new or redesigned Rhode Island digital government information and services to follow the Standard. Doing so will allow us to test methodologies, gather citizen feedback, and improve upon Rhode Island’s digital ecosystem as our journey moves forward.
 
+
 ---
 
+
 *‘Citizen-Centered Design’ is the process of improving the usability, accessibility, and accountability of a government’s digital service for the benefit of enhancing a citizen’s interaction with the service.*
+
 
 What is ‘Digital’?
 ==================
@@ -35,6 +41,7 @@ Here in Rhode Island, ‘digital’ means ‘the process of making government mo
 Digital transformation encompasses a wider range of work than solely improving information technology (IT) systems and processes. In the broadest sense possible, it means putting people first in an increasingly connected world. Growing our capacity to use new mindsets, skillsets, technologies, and data will benefit people, government, and our economy.
 
 Digital means putting citizens first. Digital means systemic change. Digital means a brighter future for all Rhode Islanders.
+
 
 Why a Digital Service Standard for Rhode Island?
 ================================================
@@ -71,6 +78,7 @@ Taking the time to understand citizens’ needs adds significant value to the pr
 [When You Assume…](https://www.digital.govt.nz/blog/when-you-assume/)* - Katie Johnston; GOVT.NZ
 
 [*Trust as a two-way street between the government and the people it serves*](https://18f.gsa.gov/2016/03/09/trust-as-a-two-way-street/) – Colin MacArthur, Carolyn Dew, Michelle Chronister, John Yuda, Brad Nunnally; 18F
+
 
 Framework for Rhode Island’s Digital Service Transformation
 ===========================================================
@@ -110,6 +118,7 @@ Goals, Teambuilding, Partnerships
 
 Mobile-First, Agile, Open-Source
 
+
 Release Stages
 ==============
 
@@ -131,6 +140,7 @@ Define a minimum viable product from the successful prototype in Alpha. Build pr
 
 Put the team and processes in place to continue operating and improving the service, phasing out the old services, and consolidating existing non-digital channels.
 
+
 DESIGNING: Digital Service for Rhode Island
 ============================================
 
@@ -142,17 +152,11 @@ Creating a more useful and usable digital government service starts with underst
 
 -   Increased accessibility
 
-<!-- -->
-
 -   Easier to use and understand services
 
 -   An improved understanding of government services
 
-<!-- -->
-
 -   Evolving services responsive to citizen needs
-
-<!-- -->
 
 -   Security and confidentiality of private data
 
@@ -160,23 +164,15 @@ Creating a more useful and usable digital government service starts with underst
 
 -   Wider uptake of lower-cost digital channels
 
-<!-- -->
-
 -   More effective service delivery
 
 -   Easier content management and maintenance
 
 -   Increasing program efficiency and cost effectiveness
 
-<!-- -->
-
 -   Improved uptake, satisfaction, and reputation of our fine-tuned services
 
-<!-- -->
-
 -   Advanced managing of reputational or service delivery risk
-
-<!-- -->
 
 -   The alignment of service projects to clear, actionable goals
 
@@ -184,17 +180,12 @@ Creating a more useful and usable digital government service starts with underst
 
 -   Increased government efficiency and reduced service duplication
 
-<!-- -->
-
 -   Improved public confidence in and uptake of digital government services
-
-<!-- -->
 
 -   Minimized legal and reputational risk
 
-<!-- -->
-
 -   Improved public confidence and government trust
+
 
 CITIZEN-CENTERED DESIGN
 -----------------------
@@ -251,39 +242,25 @@ Additionally, Rhode Islanders find it difficult to complete the task the first t
 
 -   Demonstrate how our new service minimizes effort for citizens.
 
-<!-- -->
-
 -   Describe how our service would meet citizen’s needs.
 
 -   Structure services around Rhode Islanders’ interests or preferences and not by government departments or initiatives.
 
 -   Plan options to streamline or automate our service, if beneficial for the citizen.
 
-<!-- -->
-
 -   Research and understand our citizens’ demographics, abilities and disabilities, motivations, attitudes, literacy and digital capability, and cultural considerations.
 
 -   Research and understand the abilities and disabilities, motivations, attitudes, literacy and digital capability, and cultural considerations of internal stakeholders all the way up to the Governor.
-
-<!-- -->
 
 -   Describe our processes for identifying and prioritizing insights from user research.
 
 -   Analyze user research and use it to improve our service.
 
-<!-- -->
-
 -   Pinpoint current channels best supportive of our citizens’ needs, and describe the incorporation of new channels in the future.
-
-<!-- -->
 
 -   Analyze other service providers (government or private sector) to identify opportunities to streamline how real people accomplish real life tasks.
 
-<!-- -->
-
 -   Evolve the service in response to citizen behaviors.
-
-<!-- -->
 
 -   Define how our service fits into the broader landscape of related services.
 
@@ -337,7 +314,7 @@ Additionally, Rhode Islanders find it difficult to complete the task the first t
 
 [*User Research Basics*](https://www.usability.gov/what-and-why/user-research.html) – Usability.gov
 
--
+
 
 INTUITIVE DESIGN
 ----------------
@@ -370,15 +347,9 @@ Government digital services should be recognizable and reliable across all agenc
 
 -   Identify pain points in the current way citizens interact with our service.
 
-<!-- -->
-
 -   Develop metrics to measure how well the service is meeting citizen needs along each step of the service.
 
-<!-- -->
-
 -   Refer to statewide branding and style guidelines for visual design guidance.
-
-<!-- -->
 
 -   Demonstrate that the service is responsive, with the same content and functionality on all devices, and works on mobile devices.
 
@@ -386,11 +357,7 @@ Government digital services should be recognizable and reliable across all agenc
 
 -   Establish a statewide photo-sharing resource to incorporate imagery into digital services.
 
-<!-- -->
-
 -   Create a simple and flexible design style guide and templated designs for related digital services.
-
-<!-- -->
 
 -   Add new content to RI.gov, rather than create any new websites or mobile applications.
 
@@ -465,15 +432,9 @@ The people who need our services the most are often the people who find them the
 
 -   Support people unable to use, or struggling with, the service due to lack of digital access or low digital literacy.
 
-<!-- -->
-
 -   Make it easy for people with disabilities to reach out to the appropriate team to address any problems.
 
-<!-- -->
-
 -   Use plain, concise, and consistent language.
-
-<!-- -->
 
 -   Plan for any digital or non-digital assistance needed to support citizens (e.g., web chat, telephone assistance, service intermediaries, face-to-face, etc.).
 
@@ -481,11 +442,7 @@ The people who need our services the most are often the people who find them the
 
 -   Test prototypes with citizens from different backgrounds, languages, abilities and disabilities.
 
-<!-- -->
-
 -   Ensure our team has the skills necessary to understand and create accessible services.
-
-<!-- -->
 
 -   Contribute to the development of best practices and publish approaches the state has used to implement the RI Accessibility Policy.
 
@@ -494,8 +451,6 @@ The people who need our services the most are often the people who find them the
 #### Low-Level Task Framework
 
 -   Create and disseminate state language and visual design toolkit and style guides.
-
-<!-- -->
 
 -   Ensure that all text is machine-readable and machine-translatable, including documents in PDF format.
 
@@ -582,8 +537,6 @@ People hold an expectation of privacy while online, and hold similar expectation
 
 -   How and how often is the service tested for security vulnerabilities?
 
-<!-- -->
-
 -   How can someone from the public report a security issue?
 
 -   What data, either individually or in aggregate, does the public have a right to access or have published?
@@ -602,23 +555,13 @@ People hold an expectation of privacy while online, and hold similar expectation
 
 -   Ensure our service’s security and privacy measures are robust.
 
-<!-- -->
-
 -   Consider whether the citizen should be able to access, delete, or remove their information from the service.
-
-<!-- -->
 
 -   Design and enforce standards for the protection of sensitive and personal data in accordance with relevant laws, rules, and regulations.
 
-<!-- -->
-
 -   Plan and test procedures for reporting and quickly responding to privacy breaches.
 
-<!-- -->
-
 -   Be aware of what data our citizens want and respond accordingly.
-
-<!-- -->
 
 -   Preserve the confidentiality, availability, and integrity of our service according to our citizens’ needs.
 
@@ -626,19 +569,11 @@ People hold an expectation of privacy while online, and hold similar expectation
 
 -   Have knowledge of what information is available through our service, and how to access or change the records.
 
-<!-- -->
-
 -   Involve privacy, security, compliance, and legal advisers, as needed.
-
-<!-- -->
 
 -   Adapt services to follow market trends, incorporate best citizen privacy practices, and provide immunity from attack.
 
-<!-- -->
-
 -   Maintain an inventory of the information and data the service might involve and relevant security classifications.
-
-<!-- -->
 
 -   Perform proportionate risk analysis and act as necessary based on our analysis.
 
@@ -723,8 +658,6 @@ Understanding context and planning service delivery around restrictive, needs-fo
 
 -   Keep omnichannel service needs in mind during the design process.
 
-<!-- -->
-
 -   Understand the different points at which people will interact with our service both online and in person.
 
 #### Low-Level Task Framework
@@ -768,15 +701,9 @@ Creating a more useful and usable digital government service requires us and our
 
 -   More timely, authoritative information
 
-<!-- -->
-
 -   Increased knowledge about services
 
-<!-- -->
-
 -   Continually optimized services to meet needs
-
-<!-- -->
 
 -   Improved public collaboration
 
@@ -790,15 +717,9 @@ Creating a more useful and usable digital government service requires us and our
 
 -   Improved performance accountability
 
-<!-- -->
-
 -   Reduced levels of risk
 
-<!-- -->
-
 -   Strengthened relationships with the public
-
-<!-- -->
 
 -   Collaborative efforts and partnerships
 
@@ -806,23 +727,13 @@ Creating a more useful and usable digital government service requires us and our
 
 -   Expanded return on investment
 
-<!-- -->
-
 -   Broader context for future investment decision-making
-
-<!-- -->
 
 -   Greater government transparency
 
-<!-- -->
-
 -   Improved public trust in government
 
-<!-- -->
-
 -   Grown system-wide digital capabilities
-
-<!-- -->
 
 -   Increased service integration
 
@@ -869,17 +780,11 @@ To empower the mobile-first approach, we can use responsive design to automatica
 
 -   Develop technical standards for Rhode Island’s technology workforce to follow when building digital tools.
 
-<!-- -->
-
 -   Develop a cross-agency working group for mobile application, design, and research to share best practices and updates on ongoing projects.
 
 -   Describe the features of various social media platforms and their most effective use.
 
-<!-- -->
-
 -   Describe how your service utilized various social media platforms.
-
-<!-- -->
 
 -   Review and improve on existing social media standards.
 
@@ -946,31 +851,17 @@ Having others evaluate our tools and systems helps us to mitigate associated ris
 
 -   Share our work, decision making, evidence and insights and invited others to provide constructive criticism.
 
-<!-- -->
-
 -   Consider keeping data, information, and transactional schemas as simple and modular as possible.
-
-<!-- -->
 
 -   Exclude any secret information, like passwords, from public repositories.
 
-<!-- -->
-
 -   Understand the potential benefits or caveats to the reuse of commonly-accepted methods, tools, platforms, or components or processes.
-
-<!-- -->
 
 -   Promote your project as being open to pull requests from interested members of the public.
 
-<!-- -->
-
 -   Consider open-sourcing our work.
 
-<!-- -->
-
 -   Open and share our evidence base, decision-making, knowledge, research, software, and code.
-
-<!-- -->
 
 -   Consider where and when it is not appropriate to openly release the data, information, transactions, and rules we have created during our service delivery.
 
@@ -982,11 +873,7 @@ Having others evaluate our tools and systems helps us to mitigate associated ris
 
 -   Use open-source standards, best practices, and common government platforms to ensure interoperability and prevent dependency on a single vendor.
 
-<!-- -->
-
 -   Guarantee the sharing of Intellectual Property (IP) artifacts, including documents, insights, graphs or visualizations, and code in all contracts.
-
-<!-- -->
 
 -   Use open standards, open-source, and public cloud offerings that have a strong developer community support.
 
@@ -1083,27 +970,15 @@ Using Agile development allows us to reduce the risk of failure, get working web
 
 -   Provide the capacity, resources, and technical flexibility to build a frequently improvable and iterative service.
 
-<!-- -->
-
 -   Ensure adequate operational support, ongoing budget, and procurement arrangements to enable Agile development.
-
-<!-- -->
 
 -   Show how the technology we are using is sustainable and how risks to its sustainability are being minimized.
 
-<!-- -->
-
 -   Provide examples of the team’s ability to deploy software frequently with minimal disruption to citizens.
-
-<!-- -->
 
 -   Describe how long we expect our service to be in each stage of development and why.
 
-<!-- -->
-
 -   Develop our process for deploying software.
-
-<!-- -->
 
 -   Use proven deployment processes, such as Blue / Green Deployment, allowing for frequent releases that do not interrupt citizens’ usage of the service.
 
@@ -1196,21 +1071,15 @@ We will not know how good our product is until we test it in simulations of both
 
 -   Use and share data collected from citizen research, usability testing, and service analytics.
 
-<!-- -->
-
 -   Cultivate a culture embracing, and even celebrating, iteration and “fails”.
 
 #### Low-Level Task Framework
 
 -   Create a space to test digital and non-digital services safely and transparently.
 
-<!-- -->
-
 -   Create a service design group to share best practices and “fails” in research and service delivery as well as to workshop design challenges and solutions.
 
 -   Support additional capacity and invest in tools helping government staff monitor and respond to Rhode Islanders’ feedback.
-
-<!-- -->
 
 -   Test the digital service from beginning to end with the manager or department lead responsible for the content and service.
 
@@ -1299,27 +1168,17 @@ Rhode Islanders will be more willing to share personal information with a govern
 
 -   Baseline, measure, continually monitor, and publicly report how our service contributes to an overarching outcome or purpose.
 
-<!-- -->
-
 -   Use citizen research and prototype testing to identify the value of our service to our users.
 
 -   Map the experience of a citizen trying to access information we provide or use a service we oversee.
 
 -   Consider what, if any, metrics are available to measure against current means of delivering the service.
 
-<!-- -->
-
 -   Understand the potential effects of our service on other government services, including where we source the data and the limitations thereof.
-
-<!-- -->
 
 -   Use goals and planned milestones to communicate status updates and an estimated timeline with Rhode Islanders.
 
-<!-- -->
-
 -   Identify influences external to our service that may impact its measures of success.
-
-<!-- -->
 
 -   Adhere to statewide technical, data, design, and social media standards, and check back frequently to ensure compliance with updated guidelines.
 
@@ -1460,11 +1319,7 @@ While manual tests and quality assurance are still necessary, automated tests pr
 
 -   Quickly add or remove team members to meet the need of the moment.
 
-<!-- -->
-
 -   Deploy software on a variety of commodity hardware types, whenever possible.
-
-<!-- -->
 
 -   Consider open-source software solutions cloud-independent at every layer of the stack.
 
@@ -1533,15 +1388,9 @@ LEADING: Digital Service for Rhode Island
 
 -   Multiplied network effect of positive externalities
 
-<!-- -->
-
 -   Higher quality of service received
 
-<!-- -->
-
 -   Improved government transparency
-
-<!-- -->
 
 -   Flourished service familiarity
 
@@ -1549,23 +1398,15 @@ LEADING: Digital Service for Rhode Island
 
 -   Greater service uptake
 
-<!-- -->
-
 -   More effective use of resources
-
-<!-- -->
 
 -   Better team and individual outcomes
 
 -   Higher accountability
 
-<!-- -->
-
 -   Healthier workplace culture
 
 -   Higher productivity
-
-<!-- -->
 
 -   Improved talent attraction and retention
 
@@ -1573,17 +1414,11 @@ LEADING: Digital Service for Rhode Island
 
 -   Strengthened communication
 
-<!-- -->
-
 -   Grown culture of accountability
-
-<!-- -->
 
 -   Increased inter- and intra-government collaboration
 
 -   Higher capacity for leadership potential
-
-<!-- -->
 
 -   More systematic development processes
 
@@ -1662,11 +1497,7 @@ Clear and actionable goals will help measure the value of our effort, gauge the 
 
 -   Plan to shut down or pivot relevant services when benchmarked goals are not met, and how our team will monitor for the trigger.
 
-<!-- -->
-
 -   Describe how we will use an evidence-based and peer-reviewed approach throughout the project’s lifetime.
-
-<!-- -->
 
 -   Work with state legal resources to identify legislation and regulations which may impact the service’s design, creation, or implementation.
 
@@ -1674,11 +1505,7 @@ Clear and actionable goals will help measure the value of our effort, gauge the 
 
 -   Plan to complete and iterate all aspects of the design, build, and lead processes.
 
-<!-- -->
-
 -   Plan to ensure project visibility and grow buy-in with agency and government leadership all the way up to the Governor.
-
-<!-- -->
 
 -   Plan to manage the organizational and cultural change surrounding your project.
 
@@ -1765,19 +1592,11 @@ Likewise, having a great team is the first step to building great services, impr
 
 -   Build team principles and ethos, including a strong commitment to citizens.
 
-<!-- -->
-
 -   Describe our team culture and how our team works together to design, deliver, and support the service.
-
-<!-- -->
 
 -   Strengthen decision making and approval processes.
 
-<!-- -->
-
 -   Evaluate the team’s approach to support processes like pairing and peer review.
-
-<!-- -->
 
 -   Understand how citizens, stakeholders, cultural advisors, and business or policy experts engage and collaborate with the team.
 
@@ -1787,11 +1606,7 @@ Likewise, having a great team is the first step to building great services, impr
 
 -   Explore how the team members access and contribute to knowledge transfer and skills development across the public sector.
 
-<!-- -->
-
 -   Support the team’s working practices (such as stand-ups, demos, sprint planning sessions, and retrospectives) and demonstrated ability to adapt.
-
-<!-- -->
 
 -   Guide how the team applies modern methods such as Agile, co-design, and service design.
 
@@ -1802,8 +1617,6 @@ Likewise, having a great team is the first step to building great services, impr
 -   Ensure department or agency partnership with appropriate privacy, civil liberties, and/or legal advisor.
 
 -   Emphasize customer service and create rewards for excellent customer service within state government.
-
-<!-- -->
 
 -   Follow the *State of Rhode Island Website Governance and Management Policy.*
 
@@ -1914,8 +1727,6 @@ Beyond immediate benefits tied to testing outreach, actively encouraging people 
 
 -   Enlist influencers in the community as champions of Rhode Island digital services.
 
-<!-- -->
-
 -   Use social media to show or explain government services.
 
 -   Engage each Rhode Islander with a question or information about government services.
@@ -1924,21 +1735,15 @@ Beyond immediate benefits tied to testing outreach, actively encouraging people 
 
 -   Prototype tools enabling residents to view and manage their complete relationship with Rhode Island in one place, like a single sign-on portal: login.RI.gov
 
-<!-- -->
-
 -   Create a digital toolkit for community-based organizations.
 
 -   Provide digital training to service providers and representatives from community-based organizations.
-
-<!-- -->
 
 -   Train all agencies to use a single platform to distribute information about key services.
 
 #### Low-Level Task Framework
 
 -   Create and utilize a web-based data platform showing the state of Rhode Island broadband connectivity, initiatives to improve connectivity, and the projected impact of projects.
-
-<!-- -->
 
 -   Use available technology and platforms to distribute community-specific information, connect Rhode Islanders to each other, and refer residents to resources in their neighborhood.
 
@@ -2001,15 +1806,9 @@ Joining forces with public-minded partners will make service delivery more effec
 
 -   Utilize the Rhode Island Digital Service to help find a great partner(s).
 
-<!-- -->
-
 -   Establish and publish data collection and distribution standards consistent with local laws.
 
-<!-- -->
-
 -   Consider opportunities to ask Rhode Island’s design and technology community to help us solve a problem, build a better tool, or improve an existing digital service.
-
-<!-- -->
 
 -   Develop both informal and formal mechanisms to partner with the civic technology community.
 
