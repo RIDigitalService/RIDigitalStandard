@@ -74,10 +74,11 @@ Taking the time to understand citizens’ needs adds significant value to the pr
 
 *[How digital can support participation in democracy](https://www.digital.govt.nz/blog/how-digital-can-support-participation-in-democracy/) –* Vernon McCarthy; GOVT.NZ
 
-*[Government as a public service](https://www.digital.govt.nz/blog/government-as-a-public-service/) –* Suzanne Maxted; GOVT.NZ*\
-[When You Assume…](https://www.digital.govt.nz/blog/when-you-assume/)* - Katie Johnston; GOVT.NZ
+*[Government as a public service](https://www.digital.govt.nz/blog/government-as-a-public-service/) –* Suzanne Maxted; GOVT.NZ
 
-[*Trust as a two-way street between the government and the people it serves*](https://18f.gsa.gov/2016/03/09/trust-as-a-two-way-street/) – Colin MacArthur, Carolyn Dew, Michelle Chronister, John Yuda, Brad Nunnally; 18F
+*[When You Assume…](https://www.digital.govt.nz/blog/when-you-assume/)* - Katie Johnston; GOVT.NZ
+
+*[*Trust as a two-way street between the government and the people it serves*](https://18f.gsa.gov/2016/03/09/trust-as-a-two-way-street/) – Colin MacArthur, Carolyn Dew, Michelle Chronister, John Yuda, Brad Nunnally; 18F
 
 
 Framework for Rhode Island’s Digital Service Transformation
@@ -331,7 +332,7 @@ We will use the same language and design patterns to help people identify our se
 
 Government digital services should be recognizable and reliable across all agencies, channels, and platforms. Clear standards for digital design elements, technical options, as well as data sharing and collection will help agencies create and implement consistent and familiar services for Rhode Islanders. Using the same language and design patterns as the rest of RI.gov will allow us to save time and focus on showcasing the unique aspects of our services.
 
-### Key Questions to Answer\
+### Key Questions to Answer
 
 -   Where are citizen pain points in the current way people accomplish the task?
 
@@ -1059,7 +1060,7 @@ We will not know how good our product is until we test it in simulations of both
 
 ### How to Create Solutions
 
-#### High-Level Task Framework\
+#### High-Level Task Framework
 
 -   Test the end-to-end service in an environment identical to the live version, using dummy accounts and a representative sample of Rhode Islanders.
 
@@ -1315,7 +1316,7 @@ While manual tests and quality assurance are still necessary, automated tests pr
 
 ### How to Create Solutions
 
-#### High-Level Task Framework\
+#### High-Level Task Framework
 
 -   Quickly add or remove team members to meet the need of the moment.
 
