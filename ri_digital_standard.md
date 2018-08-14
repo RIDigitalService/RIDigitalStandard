@@ -215,7 +215,7 @@ Starting design with researching the needs of citizens uncovers broad and nuance
 
 Additionally, Rhode Islanders find it difficult to complete the task the first time, they may contact our organization to get help or avoid using our service altogether. Also, ensuring all digital and non-digital services are intuitive and use plain language will help Rhode Islanders understand which services are relevant to their lives.
 
-### Key Questions to Answer\
+### Key Questions to Answer
 
 -   Who are our primary users?
 
@@ -424,7 +424,7 @@ Government digital services should be recognizable and reliable across all agenc
 
 [*A design system for the federal government*](https://18f.gsa.gov/what-we-deliver/us-web-design-system/) - U.S. Web Design System, 18F
 
--
+
 
 ACCESSIBLE DESIGN
 -----------------
@@ -543,7 +543,7 @@ The people who need our services the most are often the people who find them the
 
 *[Plain English, put plainly](https://www.digital.govt.nz/blog/plain-english-put-plainly/) –* Joanna Mcleod; GOVT.NZ
 
--
+
 
 PRIVACY & SECURITY
 ------------------
@@ -684,7 +684,7 @@ People hold an expectation of privacy while online, and hold similar expectation
 
 [*Privacy and Website Policies*](https://www.data.gov/privacy-policy) – Data.gov
 
--
+
 
 OMNI-CHANNEL SERVICE TRANSITION
 -------------------------------
@@ -753,7 +753,7 @@ Understanding context and planning service delivery around restrictive, needs-fo
 
 *[The right place to do rural research](https://userresearch.blog.gov.uk/2015/03/11/the-right-place-to-do-rural-research/) –* Emily Ball; UK.GOV
 
--
+
 
 BUILDING: Digital Service for Rhode Island
 ==========================================
@@ -899,7 +899,7 @@ To empower the mobile-first approach, we can use responsive design to automatica
 
 [*Design principles*](https://designsystem.digital.gov/) – United States Web Design System, GSA
 
--
+
 
 OPEN-SOURCE PREFERENCE
 ----------------------
@@ -1036,7 +1036,7 @@ Having others evaluate our tools and systems helps us to mitigate associated ris
 
 [*Be open and use open source*](https://www.gov.uk/guidance/be-open-and-use-open-source) – GOV.UK
 
--
+
 
 AGILE DEVELOPMENT
 -----------------
@@ -1141,7 +1141,7 @@ Using Agile development allows us to reduce the risk of failure, get working web
 
 [*Getting stakeholder buy in for agile development*](https://18f.gsa.gov/2017/12/14/getting-stakeholder-buy-in-for-agile-development/) – Kaitlin Devine; 18F
 
--
+
 
 ITERATIVE TESTING
 -----------------
@@ -1238,7 +1238,7 @@ We will not know how good our product is until we test it in simulations of both
 
 [*Quality assurance: testing your service regularly*](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) – GOV.UK
 
--
+
 
 PERFORMANCE ACCOUNTABILITY
 --------------------------
@@ -1363,7 +1363,7 @@ Rhode Islanders will be more willing to share personal information with a govern
 
 [*Measure how content performs*](https://www.vic.gov.au/digitalstandards/research/measure-how-content-performs.html) – VIC.GOV.AU
 
--
+
 
 TECHNOLOGY
 ----------
@@ -1520,7 +1520,7 @@ While manual tests and quality assurance are still necessary, automated tests pr
 
 [*Integrate and adapt technology*](https://www.gov.uk/guidance/integrate-and-adapt-technology#fitting-new-technology-into-your-organisation) – GOV.UK
 
--
+
 
 LEADING: Digital Service for Rhode Island
 =========================================
@@ -1720,7 +1720,7 @@ Clear and actionable goals will help measure the value of our effort, gauge the 
 
 [*Be clear about what you are trying to change and why*](https://www.digital.govt.nz/standards-and-guidance/digital-service-design-standard/principles/be-clear-about-what-you-are-trying-to-change-and-why/) – GOVT.NZ
 
--
+
 
 TEAMBUILDING
 ------------
@@ -1877,7 +1877,7 @@ Likewise, having a great team is the first step to building great services, impr
 
 [*Starting a Team*](https://guides.service.gov.au/topics/starting-team/) – AU.GOV
 
--
+
 
 COMMUNITY OUTREACH
 ------------------
@@ -1972,7 +1972,7 @@ Beyond immediate benefits tied to testing outreach, actively encouraging people 
 
 [*How to develop an online engagement strategy*](https://www.digital.govt.nz/standards-and-guidance/engagement/online-engagement/how-to-develop-an-online-engagement-strategy/) – GOVT.NZ
 
--
+
 
 PARTNERSHIPS
 ------------
@@ -2031,7 +2031,7 @@ Joining forces with public-minded partners will make service delivery more effec
 
 [*Turning learning up to 11: Knowledge sharing*](https://18f.gsa.gov/2016/01/05/turning-learning-up-to-11-knowledge-sharing/) – Mike Bland; 18F
 
--
+
 
 Appendix
 ========
