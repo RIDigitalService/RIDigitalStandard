@@ -42,5 +42,11 @@ For the best feedback, please:
 -   Pull the related request after sending feedback.
 
 
+# Infographics and Printed Collateral
 
-**Without further ado, [The Standard](ri_digital_standard.md).**
+- The [print_collateral](print_collateral/) directory contains PDFs of both the Standard and some useful one-page summaries. 
+- The [infographics](infographics/) directory contains infographics designed by the excellent [@joojulie](https://github.com/orgs/RIDigitalService/people/joojulie), a rising Senior at the [Rhode Island School of Design](http://www.risd.edu) and a Summer 2018 Innovation Fellow.
+
+## Without further ado...
+
+[The Standard](ri_digital_standard.md).
